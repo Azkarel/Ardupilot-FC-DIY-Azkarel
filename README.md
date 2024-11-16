@@ -147,15 +147,17 @@ DIY Flight Controller for Ardupilot based on STM32H743 developer board
 
 | Pin  |     Signal      | Volt  |
 | :--: | :-------------: | :---: |
-|  1   |       GND       |  GND  |
-|  2   | BAT_VOLTAGE_ADC | +3.3V |
+|  1   |       +5V       |  GND  |
+|  2   |       GND       |  GND  |
+|  3   | BAT_VOLTAGE_ADC | +3.3V |
 
 **BATTERY_CURRENT**
 
 | Pin  |     Signal      | Volt  |
 | :--: | :-------------: | :---: |
-|  1   |       GND       |  GND  |
-|  2   | BAT_CRRENT_ADC  | +3.3V |
+|  1   |       +5V       |  GND  |
+|  2   |       GND       |  GND  |
+|  3   | BAT_CRRENT_ADC  | +3.3V |
 
 **I2C4**
 
