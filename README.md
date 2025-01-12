@@ -2,6 +2,8 @@
 
 DIY Flight Controller for Ardupilot based on STM32H743 developer board
 
+![AzkarelFC_Board](/Shield/Images/Front.png "Azkarel_Pinout")
+
 ## Features
 
  - STM32H743 microcontroller
